@@ -1,4 +1,13 @@
+/*variavel*/
+:root {
+    --preto:  #000000;
+    --branca: #fff;
+    --lilas-clara: #eb76db;
+    --azul-média: #2f4dd1;
+}
+/*corpo da página*/
+body{
+     color: var(--branca);/*cor da fonte*/
 
-body {
-    background-color: #cf1616;
+
 }
