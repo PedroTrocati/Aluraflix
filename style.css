@@ -8,6 +8,26 @@
 /*corpo da página*/
 body{
      color: var(--branca);/*cor da fonte*/
+     background-color: var(--preto);/*cor da fundo*/
+     margin: 0px ; /*Não terá margem padrão*/
+}
 
+header  {
+      border: solid 2px;
+      border-color:var(--branca) ;/*cor na broda*/
+      padding: 20px;/*espaçamento interno*/
+      font-size: 32px;/*tamanho da fonte*/
+      color: var(--azul-média);/*cor da fonte*/
+}
 
+section   {
+      background-color: var(--lilas-clara);/*cor de fundo*/
+      padding-bottom: 80px;/*espaçamento inferior*/
+      padding-top: 80px;/*espaçamento superior*/
+      display: flex;/*alterar a disposição*/
+      justify-content: center;/*justificado no centro*/
+}
+
+div   {
+    margin-right: 20px;/*margem a direita*/
 }
