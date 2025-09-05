@@ -2,9 +2,9 @@
 :root {
     --preto: #000;
     --branco: #fff;
-    --lilas-claro: #eb76db;
+    --lilas-claro: #f00000;
     --azul-médio: #2f4dd1;
-    --amarelo:#cfe80d;
+    --amarelo:#ffe600;
 }
 /*corpo da página*/
 body {
@@ -28,7 +28,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(111, 3, 226);
      padding-bottom: 80px;/*espaçamento inferior*/
     padding-top: 80px;/*espaçamento superior*/
     display: flex;/*alterar a disposição*/
